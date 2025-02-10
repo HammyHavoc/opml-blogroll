@@ -1,0 +1,3 @@
+name: WordPress Plugin Build Zip
+uses: 10up/action-wordpress-plugin-build-zip@1.0.2
+#retention-days: 5
