@@ -5,7 +5,6 @@ on:
 
 jobs:
   build:
-    - name: Generate zip
       uses: 10up/action-wordpress-plugin-build-zip@stable
       with:
         retention-days: 1 # Optional; defaults to 5
