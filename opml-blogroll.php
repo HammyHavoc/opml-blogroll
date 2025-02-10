@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: OPML Blogroll
- * Plugin URI: https://www.splitanatom.com
+ * Plugin URI: https://github.com/HammyHavoc/opml-blogroll
  * Description: Adds a blogroll OPML feed to your WordPress site.
  * Version: 1.0
- * Author: Split An Atom
- * Author URI: https://www.splitanatom.com
+ * Author: Hammy Havoc
+ * Author URI: https://hammyhavoc.com
  * License: GPL2
  */
 namespace Blogroll;
