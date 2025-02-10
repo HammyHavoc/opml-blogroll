@@ -4,4 +4,6 @@ A WordPress plugin that exposes the internal Link Manager links as an OPML file 
 # Example
 You can see OPML Blogroll working its magic here: https://hammyhavoc.com/.well-known/recommendations.opml
 
+---
+
 Based on the work of [Josh Betz](https://josh.blog/2024/05/blogrolls).
