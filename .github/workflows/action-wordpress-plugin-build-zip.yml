@@ -1,4 +1,4 @@
-name: Build release zip
+name: WordPress.org Plugin Build Zip Archive
 
 on:
   workflow_dispatch
