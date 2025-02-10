@@ -3,7 +3,7 @@ Contributors: hammyhavoc
 Donate link: https://hammyhavoc.com
 Tags: opml
 Requires at least: 4.7
-Tested up to: 5.4
+Tested up to: 6.7.1
 Stable tag: 1.0
 Requires PHP: 7.0
 License: GPLV2
