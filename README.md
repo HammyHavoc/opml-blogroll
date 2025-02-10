@@ -3,7 +3,7 @@ A WordPress plugin that exposes the internal Link Manager links as an OPML file 
 
 Updates to the OPML file are automatic and unlike other years-old abandoned solutions, the user does not need to interact with the plugin in any way to have it update the file based on changes to links in Link Manager.
 
-Please note that the plugin requires some means of enabling the Link Manager as WordPress no longer enables it by default, despite the code for it still being there. I’m using Guido’s [VS Link Manager](https://en-gb.wordpress.org/plugins/very-simple-link-manager/) for this purpose.
+Please note that the plugin requires some means of enabling the Link Manager as WordPress no longer enables it by default, despite the code for it still being there. I’m using Guido’s [VS Link Manager](https://en-gb.wordpress.org/plugins/very-simple-link-manager/) for this purpose. You also need to add at least one link to your `Links` menu in the WordPress admin sidebar.
 
 # Example
 You can see OPML Blogroll working its magic here: https://hammyhavoc.com/.well-known/recommendations.opml, which exposes https://hammyhavoc.com/following/ as a `.opml` file.
