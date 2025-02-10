@@ -6,7 +6,7 @@ Updates to the OPML file are automatic and unlike other years-old abandoned solu
 Please note that the plugin requires some means of enabling the Link Manager as WordPress no longer enables it by default, despite the code for it still being there. I’m using Guido’s [VS Link Manager](https://en-gb.wordpress.org/plugins/very-simple-link-manager/) for this purpose. You also need to add at least one link to your `Links` menu in the WordPress admin sidebar.
 
 # Example
-You can see OPML Blogroll working its magic here: https://hammyhavoc.com/.well-known/recommendations.opml, which exposes https://hammyhavoc.com/following/ as a `.opml` file.
+- You can see OPML Blogroll working its magic here: https://hammyhavoc.com/.well-known/recommendations.opml, which exposes https://hammyhavoc.com/following/ as a `.opml` file.
 
 ---
 
