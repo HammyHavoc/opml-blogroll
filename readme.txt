@@ -1,7 +1,7 @@
 === OPML Blogroll ===
 Contributors: hammyhavoc
 Donate link: https://hammyhavoc.com
-Tags: opml
+Tags: opml, blogroll, Link Manager, links, RSS
 Requires at least: 4.7
 Tested up to: 6.7.1
 Stable tag: 1.0
